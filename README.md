@@ -1,5 +1,5 @@
 # DISCLAIMER
-This DOS(denial of service) attack if only for educational porpuses only, DON'T use it to harm other only use it with YOUR OWN networks.<br />
+This DOS(denial of service) attack if only for educational porpuses only, DON'T use it to harm others only use it with YOUR OWN networks.<br />
 I know this isn't a very fast attack because python is slow but it gets the job done pretty well on small/medium networks.
 
 
