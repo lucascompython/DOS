@@ -7,7 +7,7 @@ I know this isn't a very fast attack because python is slow but it gets the job 
 - A Wifi adapter that support monitor mode
 - airmon-ng aireplay-ng airodump-ng
 
-## Instalation
+## Installation
 ```sh
 git clone https://github.com/lucascompython/DOS.git
 sudo apt update && apt upgrade
